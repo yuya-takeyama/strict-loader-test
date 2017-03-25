@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "source-map-support": "^0.4.14",
+    "strict-loader": "^1.1.0",
+    "webpack": "^2.3.2"
+  },
+  "scripts": {
+    "build": "webpack index.js bundle.js",
+    "start": "npm run build && node bundle.js"
+  }
+}
