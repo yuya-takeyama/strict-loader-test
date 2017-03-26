@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "source-map-support": "^0.4.14",
-    "strict-loader": "^1.1.0",
+    "strict-loader": "^1.2.0",
     "webpack": "^2.3.2"
   },
   "scripts": {
